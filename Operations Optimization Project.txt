@@ -1,0 +1,14 @@
+Operations Optimization Project:
+
+Selected article: A Mixed Integer Linear Program for  Airport Departure Scheduling.
+
+JG 	- Send an email to Alexander to propose him in person the article we want to work about.
+C&JG 	- Documentation of the code.
+J	- Report introduction, conclusion and general structure (tentative).
+J&C 	- Metodhology in the report.
+
+26-May-23
+
+C&J	- Clement is going to check it works in matlab and upload the m they create on github.
+JG 	- Create github project and upload excel file, upload m we just did and send an email to alessadro.
+Next meeting thursday 1st of june. 
